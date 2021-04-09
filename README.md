@@ -27,6 +27,8 @@ PHPMyAdmin offnen
 
 Inhalt vom migration.sql - File kopieren, neue Datenbank im PHPMyAdmin anlegen und die kopierte SQL - Query in der Konsole ausfuhren
 
+![title](Images/pmapaste.png)
+
 ## Schritt 5: 
 
 db-connection.php offnen und Datenbankzugangsdaten eingeben
