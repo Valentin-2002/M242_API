@@ -2,6 +2,11 @@
 
 Benutzeranleitung Backend (XAMPP)
 
+## Ausgangslage:
+
+XAMPP ist installiert, Repo wurde heruntergeladen
+Installationslink XAMPP: https://www.apachefriends.org/de/download.html
+
 ## Schritt 1:
 
 Files aus dem Repo in den htdocs - folder kopieren
