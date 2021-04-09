@@ -21,6 +21,8 @@ XAMPP offnen und die Dienste Apache und MySQL starten
 
 PHPMyAdmin offnen
 
+![title](Images/openpma.jpg)
+
 ## Schritt 4: 
 
 Inhalt vom migration.sql - File kopieren, neue Datenbank im PHPMyAdmin anlegen und die kopierte SQL - Query in der Konsole ausfuhren
