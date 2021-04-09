@@ -33,3 +33,5 @@ Inhalt vom migration.sql - File kopieren, neue Datenbank im PHPMyAdmin anlegen u
 
 db-connection.php offnen und Datenbankzugangsdaten eingeben
 
+![title](Images/dbdata.png)
+
