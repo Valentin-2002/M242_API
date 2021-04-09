@@ -15,7 +15,7 @@ Files aus dem Repo in den htdocs - folder kopieren
 
 XAMPP offnen und die Dienste Apache und MySQL starten
 
-![title](Images/xampp.png)
+![title](Images/xampp.jpg)
 
 ## Schritt 3: 
 
